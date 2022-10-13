@@ -1,8 +1,7 @@
 # operation entre deux nombres
-
 number1 = int(input("Number1 = "))
 number2 = int(input("Number2 = "))
-op = input("Choississez une opération:\n\t +, *, /, - :")
+op = input("Choississez une opation:\n\t +, *, /, - :")
 
 if op == '+' :
     print ("somme {}{}{} = {}".format(number1, op, number2, number1+number2))
