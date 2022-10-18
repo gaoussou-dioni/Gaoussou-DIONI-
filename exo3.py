@@ -1,3 +1,7 @@
+"""Ecrire un programme permettant de saisir 3 notes (sur 20) d’un étudiant, calculant sa moyenne et affichant cette moyenne avec la mention
+(‘’Très bien’’ à partir de 16, ‘’Bien’’ entre 14 et 16, ‘’Assez Bien’’ entre 12 et 14, ‘’Passable’’ entre 10 et 12, ‘’Insuffisant’’ en dessous de 10). 
+PS: En supposant que l’utilisateur va saisir des notes comprises entre 0 et 20."""
+
 avg1 = int(input("Enter average1: "))
 avg2 = int(input("Enter average2: "))
 avg3 = int(input("Enter average3: "))
